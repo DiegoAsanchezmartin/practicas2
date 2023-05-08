@@ -1,0 +1,41 @@
+{
+    "usuario": [
+      {
+        "nombre": "Juan",
+        "telefono": "1234567890",
+        "direccion": "Calle 1, Ciudad 1",
+        "id": 0,
+        "descripcion":"Soy un usuario de prueba"
+      },
+      {
+        "nombre": "Ana",
+        "telefono": "0987654321",
+        "direccion": "Calle 2, Ciudad 2",
+        "id": 1,
+        "descripcion":"Soy un usuario de prueba"
+      },
+      {
+        "nombre": "Pedro",
+        "telefono": "5555555555",
+        "direccion": "Calle 3, Ciudad 3",
+        "id": 2,
+        "descripcion":"Soy un usuario de prueba"
+      },
+      {
+        "nombre": "María",
+        "telefono": "9999999999",
+        "direccion": "Calle 4, Ciudad 4",
+        "id": 3,
+        "descripcion":"Soy un usuario de prueba"
+      },
+      {
+        "nombre": "Marío",
+        "telefono": "99999999997",
+        "direccion": "Calle 6, Ciudad 4",
+        "id": 4,
+        "descripcion":"Soy un usuario de prueba"
+        
+      }
+    ]
+  }
+  
